@@ -1,16 +1,20 @@
-# Introduction to GitHub
+¿Qué es Git?
+Es un sistema de control de versiones distribuido que permite rastrear los cambios en el código fuente durante el desarrollo de software. Permite trabajar de forma local, guardar historiales de modificaciones, volver a versiones anteriores y facilitar el trabajo en equipo sin perder información.
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+¿Qué es GitHub?
+Es una plataforma basada en la nube que aloja repositorios de Git. Funciona como una red social y centro de colaboración para desarrolladores, permitiendo compartir código, gestionar proyectos, revisar cambios mediante herramientas web e integrar flujos de trabajo automatizados (CI/CD).
 
-Hey IliAmerike!
+Diferencia entre Git y GitHub
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+Git es la herramienta (el software) que instalas en tu computadora para administrar las versiones de tu código de forma local.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+GitHub es el servicio web que hospeda esos repositorios en internet, facilitando la colaboración remota y ofreciendo una interfaz gráfica y herramientas adicionales.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/IliAmerike/skills-introduction-to-github/issues/1)
+¿Qué es un commit?
+Es un "punto de control" o instantánea (snapshot) que guarda de forma permanente los cambios realizados en los archivos dentro del repositorio de Git, acompañado de un mensaje descriptivo.
 
----
+¿Qué es un branch (rama)?
+Es una línea de desarrollo independiente dentro de un repositorio. Permite trabajar en nuevas funciones, correcciones o experimentos de manera aislada sin alterar ni romper la versión principal del código (usualmente llamada main o master).
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+¿Qué es un Pull Request (PR)?
+Es una propuesta formal para fusionar (merge) los cambios realizados en una rama hacia otra rama principal. Permite que otros colaboradores revisen, discutan y prueben el código antes de integrarlo oficialmente al proyecto.
